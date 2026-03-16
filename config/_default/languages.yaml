@@ -40,8 +40,8 @@ en:
       weight: 2
       post: "Membership is open to all registered Democrats who share our goals"
       parent: "about"
-    - identifier: "meetings-and-events"
-      name: "Meetings & Events" 
+    - identifier: "events"
+      name: "Events" 
       url: "/events/"
       weight: 3
     - identifier: "endorsements"
