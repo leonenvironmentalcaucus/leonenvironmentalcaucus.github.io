@@ -1,0 +1,9 @@
+{{ define "main" }}
+{{ .Content }}
+{{ range first 5 (where .Site.RegularPages "Section" "blog") }}
+<article>
+  <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
+  <p>{{ .Summary | plainify }}</p>
+</article>
+{{ end }}
+{{ end }}
