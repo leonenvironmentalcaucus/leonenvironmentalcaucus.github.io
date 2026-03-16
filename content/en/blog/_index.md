@@ -3,4 +3,4 @@ title: "Blog"
 description: ""
 ---
 
-Welcome to our blog.
+This is where posts from our members and officers will appear.

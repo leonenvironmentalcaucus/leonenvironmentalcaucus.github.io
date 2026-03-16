@@ -13,20 +13,24 @@ Working to make Tallahassee, Leon County, and Florida green and blue
 {{< columns count=3 >}}
 {{< column >}}
 {{< img src="/img/shorebird.jpg" >}}
-### One Thing
-This is some information about the One Thing.
+### Meetings
+We meet regularly and have special events that keep us engaged.
+{{< button link="events" text="Events Calendar" >}}
 {{< /column >}}
 {{< column >}}
 {{< img src="/img/trail.jpg" >}}
-### The Other Thing
-This is some information about the Other Thing.
+### Endorsements
+We endorse local candidates and races throughout the campaign season.
+{{< button link="endorsements" text="Endorsed Candidates" >}}
 {{< /column >}}
 {{< column >}}
 {{< img src="/img/water.jpg" >}}
-### Last Thing
-This is some information about the Last Thing.
+### People's Rights
+For a healthy and safe world, people's rights matter.
+{{< button link="information-about-rights" text="Info about Rights" >}}
 {{< /column >}}
 {{< /columns >}}
 {{< spacer 20 >}}
 
 ## Recent Blog Posts
+

@@ -48,14 +48,18 @@ en:
       name: "Endorsements"
       url: "/endorsements/"
       weight: 4
+    - identifier: "blog"
+      name: "Blog"
+      url: "/blog/"
+      weight: 5
     - identifier: "links"
       name: "Links"
       url: "/links/"
-      weight: 5
+      weight: 6
     - identifier: "contact"
       name: "Contact"
       url: "/contact/"
-      weight: 6
+      weight: 7
 es:
   languageName: Spanish
   contentDir: content/es
