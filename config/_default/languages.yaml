@@ -13,11 +13,11 @@ en:
       help_url: "/accessibility/"
     ### calls to action ###
     main_cta:
-      text: "Join Us"
-      link: "/join/"
+      text: "Donate"
+      link: "/donate/"
     footer_cta:
-      text: "Join Us"
-      link: "/join/"
+      text: "Donate"
+      link: "/donate/"
   ### example menu showing children ###
   menu:
     main:
@@ -40,10 +40,30 @@ en:
       weight: 2
       post: "Membership is open to all registered Democrats who share our goals"
       parent: "about"
+    - identifier: "participate"
+      name: "Participate"
+      url: "/participate/"
+      weight: 3
+    - identifier: "donate"
+      name: "Donate"
+      url: "/donate/"
+      weight: 1
+      parent: "participate"
+    - identifier: "volunteer"
+      name: "Volunteer"
+      url: "/volunteer/"
+      weight: 2
+      parent: "participate"
+    - identifier: "join"
+      name: "Join Us"
+      url: "/join/"
+      weight: 3
+      parent: "participate"
     - identifier: "events"
       name: "Events" 
       url: "/events/"
-      weight: 3
+      weight: 4
+      parent: "participate"
     - identifier: "endorsements"
       name: "Endorsements"
       url: "/endorsements/"
@@ -61,28 +81,28 @@ en:
       url: "/contact/"
       weight: 7
 es:
+  copyright: "Copyright &copy; {{< current_year >}} Leon Environmental Caucus"
+  title: "Leon Environmental Caucus"
   languageName: Spanish
   contentDir: content/es
   weight: 2
-  title: "Título del Sitio"
   params:
-    description: "Descripción del Sitio"
+    description: "A chapter of the Democratic Environmental Caucus of Florida, chartered by the Florida Democratic Party"
+    ### accessibility ###
+    accessibility:
+      skip_text: "Skip to content"
+      help_text: "Accessibility Statement"
+      help_url: "/accessibility/"
+    ### calls to action ###
+    main_cta:
+      text: "Donate"
+      link: "/donate/"
+    footer_cta:
+      text: "Donate"
+      link: "/donate/"
   menu:
     main:
     - identifier: "about"
       name: "Acerca de"
-      url: "/example-page/"
+      url: "/notyet/"
       weight: 1
-    - identifier: "child-1"
-      name: "Página Hija de Ejemplo"
-      url: "/example-page/"
-      weight: 1
-      parent: "about"
-    - identifier: "faq"
-      name: "FAQs"
-      url: "/faq/"
-      weight: 3
-    - identifier: "blog"
-      name: "Blog"
-      url: "/blog/"
-      weight: 2
