@@ -3,7 +3,7 @@ title: Get in Touch With Us
 description: Contact the Leon Environmental Caucus
 ---
 
-Do you have questions about the caucus? Ideas for the caucus? Want to participate? Email Claudia Sperber at leonenvirocaucus@gmail.com or call 850-345-5751
+Do you have questions about the caucus? Ideas for the caucus? Want to participate? Email Claudia Sperber at leonenvirocaucus@gmail.com
 
 Questions about paying dues? Contact us using the form below. All money is used to support our mission in Leon County of environmental protection, climate justice, and democracy.
 
