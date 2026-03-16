@@ -9,8 +9,8 @@ en:
     ### accessibility ###
     accessibility:
       skip_text: "Skip to content"
-      help_text: "Accessibility Statement"
-      help_url: "/accessibility/"
+    #   help_text: "Accessibility Statement"
+    #   help_url: "/accessibility/"
     ### calls to action ###
     main_cta:
       text: "Donate"
@@ -38,7 +38,11 @@ en:
       name: "Who We Are"
       url: "/who/"
       weight: 2
-      post: "Membership is open to all registered Democrats who share our goals"
+      parent: "about"
+    - identifier: "website"
+      name: "Our Website"
+      url: "/website/"
+      weight: 3
       parent: "about"
     - identifier: "participate"
       name: "Participate"

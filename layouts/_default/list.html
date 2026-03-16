@@ -2,7 +2,7 @@
 {{ .Content }}
 {{ range first 5 (where .Site.RegularPages "Section" "blog") }}
 <article>
-  <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
+  <h3><a href="{{ .Permalink }}">{{ strings.ToUpper .Title }}</a></h3>
   <p>{{ .Summary | plainify }}</p>
 </article>
 {{ end }}
