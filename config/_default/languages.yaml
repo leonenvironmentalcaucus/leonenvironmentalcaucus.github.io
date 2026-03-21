@@ -86,7 +86,7 @@ en:
       weight: 7
 es:
   copyright: "Copyright &copy; {{< current_year >}} Leon Environmental Caucus"
-  title: "Leon Environmental Caucus"
+  title: "Caucus Ambiental Democrático del Cantón de León"
   languageName: Spanish
   contentDir: content/es
   weight: 2
@@ -95,18 +95,20 @@ es:
     ### accessibility ###
     accessibility:
       skip_text: "Skip to content"
-      help_text: "Accessibility Statement"
-      help_url: "/accessibility/"
     ### calls to action ###
-    main_cta:
-      text: "Donate"
-      link: "/donate/"
-    footer_cta:
-      text: "Donate"
-      link: "/donate/"
+    # main_cta:
+    #   text: "Donate"
+    #   link: "/donate/"
+    # footer_cta:
+    #   text: "Donate"
+    #   link: "/donate/"
   menu:
     main:
-    - identifier: "about"
-      name: "Acerca de"
-      url: "/notyet/"
+    - identifier: "home"
+      name: "Home"
+      url: "/"
       weight: 1
+    - identifier: "rights"
+      name: "Information About Your Rights"
+      url: "/information-about-rights"
+      weight: 2
