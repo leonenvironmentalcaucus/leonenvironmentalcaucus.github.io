@@ -39,10 +39,15 @@ en:
       url: "/who/"
       weight: 2
       parent: "about"
+    - identifier: "hrc"
+      name: "Human Rights Committee"
+      url: "/human-rights/"
+      weight: 3
+      parent: "about"
     - identifier: "website"
       name: "Our Website"
       url: "/website/"
-      weight: 3
+      weight: 4
       parent: "about"
     - identifier: "participate"
       name: "Participate"
@@ -72,10 +77,6 @@ en:
       name: "Endorsements"
       url: "/endorsements/"
       weight: 4
-    - identifier: "blog"
-      name: "Blog"
-      url: "/blog/"
-      weight: 5
     - identifier: "links"
       name: "Links"
       url: "/links/"

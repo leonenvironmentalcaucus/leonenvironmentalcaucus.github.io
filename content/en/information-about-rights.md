@@ -1,6 +1,6 @@
 ---
 title: Information about Your Rights
-description: Leon Environmental Caucus Human Rights Committee
+description: Links and downloadable PDFs related to your rights
 ---
 
 {{< intro >}}
