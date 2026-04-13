@@ -27,7 +27,7 @@ We endorse local candidates and races.
 {{< /column >}}
 {{< column >}}
 {{< img src="/img/water.jpg" >}}
-### People's Rights
+### Immigrants' Rights
 For a healthy and safe world, people's rights matter.
 
 {{< button link="information-about-rights" text="Info about Rights" >}}

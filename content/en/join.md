@@ -28,7 +28,7 @@ Tallahassee, FL 32301
 
 It’s not necessary to join the state caucus in order to join our chapter, but we encourage our members to join the state caucus as well. State caucus dues are currently $10.
 
-For information about the state caucus, go to [environmentalcaucus.com](environmentalcaucus.com).
+For information about the state caucus, go to [environmentalcaucus.com](https://www.environmentalcaucus.com/become-a-member/).
 
 {{< img src="/img/wide_sm.jpg" loading="eager" >}}
 {{< /column >}}
