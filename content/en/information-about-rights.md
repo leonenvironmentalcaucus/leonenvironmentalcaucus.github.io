@@ -10,6 +10,7 @@ For a Healthy and Safe World, People’s Rights Matter
 {{< cards count=2 >}}
 {{< card >}}
 ## Links Regarding Immigration Concerns
+* [Rapid Response Action for Immigrant Safety and Empowerment (RAISE)](https://raise.is/resources)
 * National Immigrant Justice Center
   * [Conozca Sus Derechos: El Nuevo Proceso Bona Fide](https://immigrantjustice.org/es/know-your-rights/conozca-sus-derechos-el-nuevo-proceso-bona-fide)
   * [Know Your Rights](https://immigrantjustice.org/know-your-rights)
