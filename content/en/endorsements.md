@@ -15,14 +15,14 @@ done by pollution, contaminants, and chemicals, and to promote sustainability.
 {{< columns count=2 >}}
 {{< column >}}
 {{< img src="/img/angienixon.jpg" >}}
+[Angie Nixon](https://angienixon.com)
 {{< /column >}}
 {{< column >}}
 {{< img src="/img/amandagreen_sm.jpg" >}}
+[Amanda Green](https://www.amgforcongress.com/)
 {{< /column >}}
 {{< /columns >}}
 
-* [Angie Nixon](https://angienixon.com/)
-* [Amanda Green](https://www.amgforcongress.com/)
 
 {{< img src="/img/2026endorsements.png" >}}
 
