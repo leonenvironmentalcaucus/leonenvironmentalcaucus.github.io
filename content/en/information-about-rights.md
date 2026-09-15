@@ -1,5 +1,5 @@
 ---
-title: Information about Your Rights
+title: Information about Immigrant Rights
 description: Links and downloadable PDFs related to your rights
 ---
 
